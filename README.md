@@ -15,6 +15,15 @@ Get to know us:
 
 | **Group** | sunsine :sunny: |
 |-----|:----:|
+| **Name** | Aribah Farzana @Balqis Binti Aiddy Azhan |
+| **Student ID** | 21B2023 |
+| **Favourite Math Concept** | Double-angle indentities :triangular_ruler: |
+| **Hobby** | baking and watching kdramas |
+| **Favourite Colour** | pink |
+| **Favourite place** | cafes :coffee: :cake: |
+
+<img src="aribah.jpg" width="250" height="300">
+
 | **Name** | Nur Syazwani binti Kamal Ali|
 | **Student ID** | 21b2015 |
 | **Favourite Math Concept** | Differentiation |
@@ -23,3 +32,4 @@ Get to know us:
 | **Favourite place** | Places with a lot of foods! :pizza: :rice: :icecream: |
 
 <img src="https://github.com/sm2302-aug24/labs-grp-sunsine/blob/nrwanikmli.md/syazwani.jpg" width="250" height="300">
+
